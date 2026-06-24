@@ -12,7 +12,7 @@
 		"core" : 
 		{
 			"name" : "Core",
-			"version" : "0.0.0-rc.8",
+			"version" : "0.0.0-rc.16",
 			"repo" : "https://github.com/sp-framework/core"
 		},
 		"apptype" : 
@@ -25,7 +25,7 @@
 		[
 			{
 				"name" : "Default",
-				"version" : "0.10.0",
+				"version" : "0.35.0",
 				"repo" : "https://github.com/sp-fintech/fintech-views-tools-default"
 			}
 		]
